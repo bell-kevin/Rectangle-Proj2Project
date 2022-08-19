@@ -2,7 +2,7 @@ package rectangle;
 
 /******************************************************************************
  * Rectangle.java 
- * Programmer: @author jcboyd
+ * Programmer: @author jcboyd and Kevin Bell
  * Version: 1.0
  * Course: SDEV 2210
  *
